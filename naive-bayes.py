@@ -23,7 +23,7 @@ predic_evaluate calculates the % of succesfull predictions
 predict with 0.5066 accuracy
 """
 
-"""importing nd encoding"""
+"""importing and encoding"""
 #we need dense matrix, cant load everything into memory, have to set a max - max_features
 X_train, X_test, y_train, y_tests = data_scan.main_test()
 features = 10000
