@@ -1,9 +1,5 @@
-# sentiment-analysis
-Coursework for McGill Univerity's graduate machine learning course.
-
-IMDb movie review sentiment analysis for the Kaggle competition.
-
+Coursework for McGill Univerity's Applied Machine Learning course.
+IMDb movie review sentiment analysis for a Kaggle competition.
 Please see: report.pdf
-
 
 Contributor: https://github.com/ThierryBleau/
